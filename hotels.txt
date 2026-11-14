@@ -1,0 +1,20 @@
+Hotel Samrat|Belagavi|4.200000|2500|30|10
+Hotel Heritage|Belagavi|4.500000|3500|25|8
+Hotel Plaza|Belagavi|3.800000|1800|40|0
+Hotel Rajhans|Belagavi|4.100000|2800|28|10
+Hotel Suvidha|Belagavi|3.900000|2200|35|15
+Forest Resort|Belagavi|4.300000|3200|20|6
+Gokak Falls Resort|Belagavi|4.000000|1000|10|4
+Hotel Mayura|Belagavi|3.700000|2000|30|13
+Hill View Resort|Belagavi|4.200000|2700|18|7
+City Pride Hotel|Belagavi|3.600000|1600|45|19
+Hotel Sankam|Belagavi|4.400000|3400|26|10
+Hotel Pai Residency|Belagavi|4.100000|2900|24|9
+Hotel Eefa|Belagavi|4.300000|3300|27|10
+Hotel Adarsh|Belagavi|3.500000|1500|50|25
+Hotel Ramdev|Belagavi|3.900000|2100|32|15
+Hotel Kamat|Belagavi|4.000000|2600|29|13
+Hotel Pearl|Belagavi|3.800000|1900|34|15
+Hotel Shantai|Belagavi|3.600000|1700|38|18
+Hotel Royal Palace|Belagavi|4.200000|3100|23|8
+Hotel Silver Oak|Belagavi|4.100000|2800|28|12

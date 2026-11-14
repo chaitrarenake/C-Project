@@ -1,0 +1,6 @@
+john|john123|Goa
+sarah|sarah456|Mumbai
+alex|alex789|Paris
+ashish|ashish123|goa
+kartik|kar123|dandelli
+chaitra|chaitra|belagavi

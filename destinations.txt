@@ -1,0 +1,20 @@
+1|Belgaum Fort|Belagavi|India|Historical|Built in the 13th century by Ratta dynasty|October to March|Free entry|Hotel Samrat;Hotel Heritage|Kamath Restaurant;Khanawal Restaurant|1
+2|Kittur Fort|Belagavi|India|Historical|Historic fort known for Kittur Rani Chennamma|November to February|₹50|Hotel Mayura|Fort View Restaurant|1
+3|Gokak Falls|Belagavi|India|Natural|Waterfall on the Ghataprabha River|July to December|₹30|Gokak Falls Resort|Gokak Falls Cafe|1
+4|Godchinamalaki Falls|Belagavi|India|Natural|Also known as Markandeya Falls|Monsoon season|₹20|Forest Guest House|Local Dhabas|0
+5|Vajrapoha Falls|Belagavi|India|Natural|Scenic waterfall formed by the Mandovi River|August to December|Free entry|Belagavi City Hotels|Local Food Stalls|1
+6|Jamboti Hills|Belagavi|India|Hill Station|Lush green hill area near Goa border|June to February|Free entry|Jamboti Forest Lodge|Village Eateries|1
+7|Rakaskop Reservoir|Belagavi|India|Nature|Reservoir supplying water to Belagavi city|July to February|Free entry|Hotel Adarsh Palace|Ajanta Cafe|1
+8|Military Mahadev Temple|Belagavi|India|Religious|Ancient Shiva temple maintained by Indian Army|All year|Free entry|Hotel Ramdev International|Seven Beans Cafe|1
+9|Kamal Basadi Jain Temple|Belagavi|India|Religious|11th century Jain temple inside Belagavi Fort|October to March|Free entry|UK27 The Fern|Local Jain Bhojanalaya|1
+10|Kapileshwara Temple|Belagavi|India|Religious|Ancient temple believed to be first Shiva lingam|All year|Free entry|Hotel Sankam Residency|Nearby Vegetarian Hotels|0
+11|Belagavi Zoo|Belagavi|India|Recreational|Zoo with animals, birds and gardens|October to February|₹30|Hotel Eefa|The Pavilion Restaurant|1
+12|Hidkal Dam|Belagavi|India|Dam|Large dam on Ghataprabha River also called Raja Lakhamagouda Dam|August to January|Free entry|Hotels in Gokak|Local Restaurants|1
+13|Yellur Fort|Belagavi|India|Historical|Ancient hill fort near Yellur village|October to February|Free entry|Belagavi City Hotels|Village Dhabas|1
+14|Bhimgad Wildlife Sanctuary|Belagavi|India|Wildlife|Protected forest area rich in flora and fauna|October to March|Free entry|Forest Guest House|Local Village Food|1
+15|Sambhaji Garden|Belagavi|India|Park|Public garden popular for evening walks|All year|Free entry|Hotel Heritage|Cafe 27|0
+16|Tilakwadi Lake|Belagavi|India|Nature|Urban lake used for relaxation and walking|October to February|Free entry|Hotel Samrat|Nearby Bakeries|0
+17|Gandhi Bhavan|Belagavi|India|Museum|Museum dedicated to Mahatma Gandhi|All year|Free entry|Hotel Ramdev International|Hotel Ajit|0
+18|Khanapur Forest Area|Belagavi|India|Nature|Dense forest region near Khanapur|June to September|Free entry|Homestays in Khanapur|Local Food|1
+19|Rajhansgad Fort|Belagavi|India|Historical|Hill fort also known as Yellurgad|November to February|Free entry|Belagavi City Hotels|Village Hotels|1
+20|Navilutirtha Dam|Belagavi|India|Dam|Dam with gardens and boating facilities|August to January|Free entry|Hotels in Saundatti|Local Restaurants|1

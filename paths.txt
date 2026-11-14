@@ -1,0 +1,39 @@
+City Center|Belgaum Fort|15|150|Cab|High
+City Center|Belgaum Fort|30|50|Bus|Low
+City Center|Belgaum Fort|25|100|Auto|Medium
+
+City Center|Kittur Fort|45|300|Cab|High
+City Center|Kittur Fort|70|80|Bus|Low
+City Center|Kittur Fort|50|200|Auto|Medium
+
+City Center|Gokak Falls|120|800|Cab|High
+City Center|Gokak Falls|180|150|Bus|Low
+
+City Center|Godchinamalaki Falls|130|900|Cab|High
+Gokak Falls|Godchinamalaki Falls|20|200|Cab|High
+
+Hotel Samrat|Belgaum Fort|10|80|Cab|High
+Hotel Heritage|Belgaum Fort|12|100|Cab|High
+Hotel Plaza|Belgaum Fort|8|70|Cab|High
+
+Hotel Rajhans|Kapileshwar Temple|10|60|Auto|Medium
+Hotel Samrat|Kapileshwar Temple|8|50|Auto|Medium
+
+City Center|Hidkal Dam|90|400|Cab|High
+City Center|Hidkal Dam|150|120|Bus|Low
+
+City Center|Jamboti Hills|60|300|Cab|High
+City Center|Jamboti Hills|120|100|Bus|Low
+
+City Center|Vajrapoha Falls|110|500|Cab|High
+
+City Center|Savadatti Temple|100|450|Cab|High
+City Center|Savadatti Temple|160|150|Bus|Low
+
+City Center|Hotel Suvidha|10|40|Bus|Low
+City Center|Hotel Suvidha|8|70|Auto|Medium
+City Center|Hotel Suvidha|6|120|Cab|High
+
+Hotel Suvidha|Rakaskop Reservoir|35|150|Bus|Low
+Hotel Suvidha|Rakaskop Reservoir|28|250|Auto|Medium
+Hotel Suvidha|Rakaskop Reservoir|22|450|Cab|High

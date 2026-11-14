@@ -1,0 +1,14 @@
+1|Belagavi Fort
+2|Gokak Falls
+3|Rakaskop Reservoir
+4|Military Mahadev Temple
+5|Kittur Fort and Museum
+6|Kamal Basthi Jain Temple
+7|Belagavi Zoo
+8|Kamal Basadi Jain Temple
+9|Kapileshwara Temple
+10|Rakaskop View Point
+11|Yellur Fort
+12|Sambhaji Maharaj Garden
+
+4|Godchinamalaki Falls
